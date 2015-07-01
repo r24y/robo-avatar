@@ -1,0 +1,14 @@
+{
+  "name": "@r24y/robo-avatar",
+  "version": "1.0.0",
+  "description": "WebComponent for displaying a RoboHash avatar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Muller <ryan@muller.io>",
+  "license": "ISC",
+  "dependencies": {
+    "@r24y/component-base": "^1.1.0"
+  }
+}
